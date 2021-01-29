@@ -1,12 +1,17 @@
 
 # this is a test
 
-a = 1 
+a = 3 
 
-b = 2
+b = 3
 
-d = 3 
+d = 3
 
 c = a + b + d
 
-puts c 
+puts c
+
+# This is a second test
+puts "Hello world"
+
+ 
